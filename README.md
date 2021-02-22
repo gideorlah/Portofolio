@@ -1,4 +1,4 @@
-<h4> Gideon Kibor Portfolio </h4>
+<h4> My Portfolio </h4>
 This website is my portfolio
 
 <h4> Built With </h4>
